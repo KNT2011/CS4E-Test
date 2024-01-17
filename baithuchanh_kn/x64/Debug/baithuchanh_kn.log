@@ -1,0 +1,4 @@
+﻿bai03.obj : error LNK2005: main already defined in bai01.obj
+bai04.obj : error LNK2005: main already defined in bai01.obj
+bai02.obj : error LNK2005: main already defined in bai01.obj
+C:\Users\HP\Desktop\Code_Nhap_Mon_Lap_Trinh\baithuchanh_kn\x64\Debug\baithuchanh_kn.exe : fatal error LNK1169: one or more multiply defined symbols found
